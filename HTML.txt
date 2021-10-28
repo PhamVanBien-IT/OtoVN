@@ -1,0 +1,1111 @@
+<!DOCTYPE html>
+<html>
+
+<heade>
+  <title>Tu lam 1</title>
+  <meta charset="utf-8">
+ <link rel="stylesheet" href="Tulam.css">
+ <link rel="stylesheet" href="./assets/css/themify-icons-font/themify-icons/themify-icons.css">
+</heade>
+<body> 
+     <div id="main"> 
+          <div id="header">
+              <ul id="nav">
+                   <li><a>
+                    <i class="Hotline"></i>
+                    Hotline: 0987.419.510 
+                   </a></li>
+                   <li><a href="Const">
+                        Báo giá
+                         <i class="ti-search"></i>
+                         <i class="ti-hand-drag"></i>
+                   </a></li>
+                   <li><a href="Dang Ky">Đăng Ký
+                       <i class="ti-move"></i> 
+                   </a></li>
+                   <li><a href="Log in">Đăng nhập</a></li>
+              </ul>
+               
+          </div>
+          <div id="header2">
+               <ul id="nav2">
+                    <!-- <a class="logo"> 
+                         <img src="./assets/css/slider/69324651_2095636130744247_3257203906232451072_n.jpg" alt="Alo" style="width: 140px;height:100px;">
+                         <h1 class="slogan">Kênh thông tin và giao dịch ô tô</h1></a> -->
+                         <li><a>MUA BÁN Ô TÔ</a></li>
+                         <li><a>MUA BÁN Ô TÔ</a></li>
+                        <li><a>DANH BẠ</a></li>
+                        <li><a>GIÁ XE Ô TÔ</a></li>
+                        <li><a>ĐÁNH GIÁ XE</a></li>
+                        <li><a>KINH NGHIỆM</a></li>
+                        <li><a>SO SÁNH XE</a></li>
+                        <li><a>OTOWIKI</a></li>
+                        <li><a>TIN TỨC</a></li>
+                        <li class="Tin"><a>Đăng tin</a></li>
+                   </ul>
+          </div>
+          <div id="slider">
+        <img src="./assets/css/slider/pnl1-oto-210408-banner-1920x350-ranger-d0a9.jpg" alt="" style="width:100%;height: 100%;">
+         <div class="menu-tab">
+              <ul>
+                   <li><a href="https://oto.com.vn/mua-ban-xe-moi">Mua xe mới</a></li>
+                   <li><a href="https://oto.com.vn/mua-ban-xe-cu-da-qua-su-dung">Tìm xe cũ</a></li>
+                   <li><a href="https://oto.com.vn/dang-tin-ban-xe#/images">Đăng tin ngay</a></li>
+              </ul>
+         </div>  
+     </div>
+         <div class="Shop">
+              <h2 class="Key">CHỌN XE NHẬN QUÀ</h2>
+        <div class="Places-list">
+          <div class="Place-member">
+               <img src="./assets/css/slider/oto1.jpg" alt="" class = "Place-img">
+               <div class="Place-body">
+               <a href="" class="Place-word">Bán Hyundai Bán Hyundai Santa Fe bản dầu cao cấp xe đủ màu, giao ngay,...</a>
+               <p class="Place-money">1 tỷ 150 tr</p>
+               <ul class="Place-item">
+                    <li>
+                    <i class="ti-calendar"> 2021</i>
+               </li>
+               <li>
+                    <i class="ti-infinite"> Số tự động</i>
+               </li>
+               <li>
+                     <i class="ti-flag-alt"> Lắp ráp</i>
+               </li>
+               <li>
+                    <i class="ti-hand-point-right"> Diesel</i>
+               </li>
+               </ul>
+          </div>
+          </div>
+          <div class="Place-member">
+               <img src="./assets/css/slider/oto2.jpg" alt="" class = "Place-img">
+               <div class="Place-body">
+               <a href="" class="Place-word">Bán Hyundai Bán Hyundai Santa Fe bản dầu cao cấp xe đủ màu, giao ngay,...</a>
+               <p class="Place-money">1 tỷ 150 tr</p>
+               <ul class="Place-item">
+                    <li>
+                    <i class="ti-calendar"> 2021</i>
+               </li>
+               <li>
+                    <i class="ti-infinite"> Số tự động</i>
+               </li>
+               <li>
+                     <i class="ti-flag-alt"> Lắp ráp</i>
+               </li>
+               <li>
+                    <i class="ti-hand-point-right"> Diesel</i>
+               </li>
+               </ul>
+          </div>
+          </div>
+          <div class="Place-member">
+               <img src="./assets/css/slider/oto3.jpg" alt="" class = "Place-img">
+               <div class="Place-body">
+               <a href="" class="Place-word">Bán Hyundai Bán Hyundai Santa Fe bản dầu cao cấp xe đủ màu, giao ngay,...</a>
+               <p class="Place-money">1 tỷ 150 tr</p>
+               <ul class="Place-item">
+                    <li>
+                    <i class="ti-calendar"> 2021</i>
+               </li>
+               <li>
+                    <i class="ti-infinite"> Số tự động</i>
+               </li>
+               <li>
+                     <i class="ti-flag-alt"> Lắp ráp</i>
+               </li>
+               <li>
+                    <i class="ti-hand-point-right"> Diesel</i>
+               </li>
+               </ul>
+          </div>
+          </div>
+          <div class="Place-member">
+               <img src="./assets/css/slider/oto4.jpg" alt="" class = "Place-img">
+               <div class="Place-body">
+               <a href="" class="Place-word">Bán Hyundai Bán Hyundai Santa Fe bản dầu cao cấp xe đủ màu, giao ngay,...</a>
+               <p class="Place-money">1 tỷ 150 tr</p>
+               <ul class="Place-item">
+                    <li>
+                    <i class="ti-calendar"> 2021</i>
+               </li>
+               <li>
+                    <i class="ti-infinite"> Số tự động</i>
+               </li>
+               <li>
+                     <i class="ti-flag-alt"> Lắp ráp</i>
+               </li>
+               <li>
+                    <i class="ti-hand-point-right"> Diesel</i>
+               </li>
+               </ul>
+          </div>
+          </div>
+          <div class="Place-member">
+               <img src="./assets/css/slider/oto5.jpg" alt="" class = "Place-img">
+               <div class="Place-body">
+               <a href="" class="Place-word">Bán Hyundai Bán Hyundai Santa Fe bản dầu cao cấp xe đủ màu, giao ngay,...</a>
+               <p class="Place-money">1 tỷ 150 tr</p>
+               <ul class="Place-item">
+                    <li>
+                    <i class="ti-calendar"> 2021</i>
+               </li>
+               <li>
+                    <i class="ti-infinite"> Số tự động</i>
+               </li>
+               <li>
+                     <i class="ti-flag-alt"> Lắp ráp</i>
+               </li>
+               <li>
+                    <i class="ti-hand-point-right"> Diesel</i>
+               </li>
+               </ul>
+          </div>
+          </div>
+          <div class="Place-member">
+               <img src="./assets/css/slider/oto6.jpeg" alt="" class = "Place-img">
+               <div class="Place-body">
+               <a href="" class="Place-word">Bán Hyundai Bán Hyundai Santa Fe bản dầu cao cấp xe đủ màu, giao ngay,...</a>
+               <p class="Place-money">1 tỷ 150 tr</p>
+               <ul class="Place-item">
+                    <li>
+                    <i class="ti-calendar"> 2021</i>
+               </li>
+               <li>
+                    <i class="ti-infinite"> Số tự động</i>
+               </li>
+               <li>
+                     <i class="ti-flag-alt"> Lắp ráp</i>
+               </li>
+               <li>
+                    <i class="ti-hand-point-right"> Diesel</i>
+               </li>
+               </ul>
+          </div>
+          </div>
+          <div class="Place-member">
+               <img src="./assets/css/slider/oto7.jpg" alt="" class = "Place-img">
+               <div class="Place-body">
+               <a href="" class="Place-word">Bán Hyundai Bán Hyundai Santa Fe bản dầu cao cấp xe đủ màu, giao ngay,...</a>
+               <p class="Place-money">1 tỷ 150 tr</p>
+               <ul class="Place-item">
+                    <li>
+                    <i class="ti-calendar"> 2021</i>
+               </li>
+               <li>
+                    <i class="ti-infinite"> Số tự động</i>
+               </li>
+               <li>
+                     <i class="ti-flag-alt"> Lắp ráp</i>
+               </li>
+               <li>
+                    <i class="ti-hand-point-right"> Diesel</i>
+               </li>
+               </ul>
+          </div>
+          </div>
+          <div class="Place-member">
+               <img src="./assets/css/slider/oto8.jpg" alt="" class = "Place-img">
+               <div class="Place-body">
+               <a href="" class="Place-word">Bán Hyundai Bán Hyundai Santa Fe bản dầu cao cấp xe đủ màu, giao ngay,...</a>
+               <p class="Place-money">1 tỷ 150 tr</p>
+               <ul class="Place-item">
+                    <li>
+                    <i class="ti-calendar"> 2021</i>
+               </li>
+               <li>
+                    <i class="ti-infinite"> Số tự động</i>
+               </li>
+               <li>
+                     <i class="ti-flag-alt"> Lắp ráp</i>
+               </li>
+               <li>
+                    <i class="ti-hand-point-right"> Diesel</i>
+               </li>
+               </ul>
+          </div>
+          </div> 
+     </div>
+     </div>
+          <div class="SaLon">
+               <h2>XE NGON GIÁ RẺ</h2>
+               <div class="infor-list">
+               <div class="infor-Salon">
+                    <img src="./assets/css/slider/Anh1.jpg" alt="" class = "infor-img">
+                    <div class="infor-body">
+                    <a href="" class="infor-word">XE NGON GIÁ TỐT | Lexus RX350 F-sport chạy 40.000km vẫn giữ giá hơn 3 tỉ.... <br></a>
+                  <img src="./assets/css/slider/user-tin-rao2.png" alt="" class="img1">
+                    <div class="Caption-Salon">
+                    <p class="Name">Mrs Điệp</p>
+                    <p class="Spoil">Salon uy tín</p>
+               </div>
+               </div> 
+               
+          </div>      
+        </div>
+        <div class="infor-list">
+          <div class="infor-Salon">
+               <img src="./assets/css/slider/Anh2.jpg" alt="" class = "infor-img">
+               <div class="infor-body">
+               <a href="" class="infor-word">XE NGON GIÁ TỐT | Xe thể thao hiếm Alfa Romeo 159 đời 2013 giá chưa tới 1 tỉ. <br></a>
+             <img src="./assets/css/slider/user-tin-rao2.png" alt="" class="img1">
+               <div class="Caption-Salon">
+               <p class="Name">Mrs Điệp</p>
+               <p class="Spoil">Salon uy tín</p>
+          </div>
+          </div> 
+          
+     </div>      
+   </div>
+   <div class="infor-list">
+               <div class="infor-Salon">
+                    <img src="./assets/css/slider/Anh3.jpg" alt="" class = "infor-img">
+                    <div class="infor-body">
+                    <a href="" class="infor-word">XE NGON GIÁ TỐT | BMW X5 2010 3.0L SUV hạng sang sau 10 năm liệu có còn đáng mua? <br></a>
+                  <img src="./assets/css/slider/user-tin-rao2.png" alt="" class="img1">
+                    <div class="Caption-Salon">
+                    <p class="Name">Mrs Điệp</p>
+                    <p class="Spoil">Salon uy tín</p>
+               </div>
+               </div> 
+          </div>      
+        </div>
+     </div>
+       
+        <div class="Search">
+        <div class="Search-list">
+          <ul>
+               <li>
+                    <p class="Ban">BẠN CẦN TÌM THÊM</p>
+               </li>
+               <li> 
+                    <a href="" class="Tinhtrang">
+                         Tình trạng
+                         <i class="ti-angle-down"></i>
+                         <ul class="Subnav">
+                              <li><a href="">Tình trạng</a></li>
+                              <li><a href="">Đã qua sử dụng</a></li>
+                              <li><a href="">Mới</a></li>
+                         </ul>
+                    </a>
+               </li>
+               <li>
+                    <a href="" >
+                         Hãng xe
+                         <i class="ti-angle-down"></i>
+                         <ul class="Subnav">
+                              <li><a href="">Hãng xe</a></li>
+                              <li><a href="">Toyota</a></li>
+                              <li><a href="">Honda</a></li>
+                         </ul>
+                    </a>
+               </li>
+               <li>
+                    <a href="" >
+                         Dòng xe
+                         <i class="ti-angle-down"></i>
+                         <ul class="Subnav">
+                              <li><a href="">Dòng xe</a></li>
+                         </ul>
+                    </a>
+               </li>
+               <li>
+                    <a href="" >
+                         Gía
+                         <i class="ti-angle-down"></i>
+                         <ul class="Subnav">
+                              <li><a href=""><input type="text"><input type="text"></a></li>
+                         </ul>
+                    </a>
+               </li>
+               <li>
+                    <a href="" class="Timkiem">
+                         Tìm kiếm
+                        
+                         <a href="https://oto.com.vn/mua-ban-xe"></a>
+                    </a>
+               </li>
+          </ul>  
+        </div>
+        <div class="Ban2-list"> 
+             <li>
+          <p class="Ban2">Các dòng xe được tìm kiếm nhiều</p>
+             </li>
+             <li>
+                  <a href="">Ford Ranger</a>
+             </li>
+             <li>
+                  <a href="">Xe Camry</a>
+             </li>
+             <li>
+                  <a href="">Honda jazz 2017</a>
+             </li>
+             <li>
+                  <a href="">Vitara</a>
+             </li>
+             <li>
+                  <a href="">Ford Ranger 2019</a>
+             </li>
+             <li>
+                  <a href="">Mazda CX 5 2018</a>
+             </li>
+             <li>
+                  <a href="">Honda City</a>
+             </li>
+             <li>
+                  <a href="">Toyota Vios</a>
+             </li>
+             <li>
+                  <a href="">Mazda 6</a>
+             </li>
+             <li>
+                  <a href="">Mitsubishi Xpander</a>
+             </li>
+             <li>
+                  <a href="">Hyundai Accent</a>
+             </li>
+             <li>
+                  <a href="">Vinfast</a>
+             </li>
+     </div>
+     </div>
+     <img src="./assets/css/slider/aa.gif" alt="" class="aa">
+     <div class=Logo>
+               <a href="" class="Ban3">GIÁ XE Ô TÔ THÁNG 4/2021</a>
+               <div class="Logo-list">
+                    <div class="Logo-member">
+                         <ul>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/logo1.jpg" alt="" class="img-logo">
+                                        <p class="Name-logo">Audi</p>
+                                   </a>
+                              </li>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/logo2.jpg" alt="" class="img-logo">
+                                        <p class="Name-logo">BMW</p>
+                                   </a>
+                              </li>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/logo3.jpg" alt="" class="img-logo">
+                                        <p class="Name-logo">Ford</p>
+                                   </a>
+                              </li>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/logo4.jpg" alt="" class="img-logo">
+                                        <p class="Name-logo">Honda</p>
+                                   </a>
+                              </li>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/logo5.jpg" alt="" class="img-logo">
+                                        <p class="Name-logo">Huyndai</p>
+                                   </a>
+                              </li>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/unnamed.png" alt="" class="img-logo">
+                                        <p class="Name-logo">Isuzu</p>
+                                   </a>
+                              </li>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/logo6.jpg" alt="" class="img-logo">
+                                        <p class="Name-logo">Kia</p>
+                                   </a>
+                              </li>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/logo7.jpg" alt="" class="img-logo">
+                                        <p class="Name-logo">Lexus</p>
+                                   </a>
+                              </li>
+                              <li><a href="">
+                                   <img src="./assets/css/slider/logo8.jpg" alt="" class="img-logo">
+                                   <p class="Name-logo">Mazda</p>
+                              </a>
+                              </li>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/logo9.jfif" alt="" class="img-logo">
+                                        <p class="Name-logo">Mercedes-Benz</p>
+                                   </a>
+                              </li>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/logo10.png" alt="" class="img-logo">
+                                        <p class="Name-logo">Mitsubishi</p>
+                                   </a>
+                              </li>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/logo11.jpg" alt="" class="img-logo">
+                                        <p class="Name-logo">Nissan</p>
+                                   </a>
+                              </li>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/logo12.jpg" alt="" class="img-logo">
+                                        <p class="Name-logo">Peugeot</p>
+                                   </a>
+                              </li>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/logo13.jpg" alt="" class="img-logo">
+                                        <p class="Name-logo">Subaru</p>
+                                   </a>
+                              </li>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/logo14.jpg" alt="" class="img-logo">
+                                        <p class="Name-logo">Suzuki</p>
+                                   </a>
+                              </li>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/logo15.jpg" alt="" class="img-logo">
+                                        <p class="Name-logo">Toyota</p>
+                                   </a>
+                              </li>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/logo16.png" alt="" class="img-logo">
+                                        <p class="Name-logo">VinsFast</p>
+                                   </a>
+                              </li>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/logo17.png" alt="" class="img-logo">
+                                        <p class="Name-logo">Volkswagen</p>
+                                   </a>
+                              </li>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/logo18.jpg" alt="" class="img-logo">
+                                        <p class="Name-logo">Volvo</p>
+                                   </a>
+                              </li>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/logo19.jpg" alt="" class="img-logo">
+                                        <p class="Name-logo">Lamborghini</p>
+                                   </a>
+                              </li>
+                              <li>
+                                   <a href="">
+                                        <img src="./assets/css/slider/logo20.jpg" alt="" class="img-logo">
+                                        <p class="Name-logo">Porsche</p>
+                                   </a>
+                              </li>
+                         </ul>
+                    </div>
+               </div>
+     </div>
+     <div class="Top-Name">
+          <p class="Ban3">TOP XE Ô TÔ NỔI BẬT</p>
+          <div class="Top-name-list">
+               <div class="col-3">
+               <ul>
+                    <li>
+                         <a href="">Huyndai Kona</a>
+                    </li>
+                    <li>
+                         <a href="">Toyota Rush</a>
+                    </li>
+                    <li>
+                         <a href="">Fortuner 2017</a>
+                    </li>
+               </ul>
+               </div>  
+               <div class="col-3">
+                    <ul>
+                         <li>
+                              <a href="">Toyota Rush</a>
+                         </li>
+                         <li>
+                              <a href="">Honda HRV</a>
+                         </li>
+                         <li>
+                              <a href="">Kia Sedona</a>
+                         </li>
+                    </ul>
+               </div>  
+                    <div class="col-3">
+                         <ul>
+                              <li>
+                                   <a href="">Fortuner 2017</a>
+                              </li>
+                              <li>
+                                   <a href="">VinFast Fadil</a>
+                              </li>
+                              <li>
+                                   <a href="">Camry 2010</a>
+                              </li>
+                         </ul>
+                    </div>  
+                    <div class="col-3">
+                         <ul>
+                              <li>
+                                   <a href="">Mazda3 2019</a>
+                              </li>
+                              <li>
+                                   <a href="">Honda jazz 2017</a>
+                              </li>
+                              <li>
+                                   <a href="">Xe bán tải</a>
+                              </li>
+                         </ul>
+                    </div>          
+          </div>
+     </div>
+     <div class="Top-car">
+          <p class="Ban3">XE BÁN CHẠY TRONG THÁNG</p>
+          <div class="Top-car-list">
+          <div class="Car-member">
+               <a href="">
+                    <img src="./assets/css/slider/car1.jpg" alt="">
+                    <h3 class="Title">Ford Ranger</h3>
+               </a>
+          </div>
+          <div class="Car-member">
+                    <a href="">
+                         <img src="./assets/css/slider/car1.jpg" alt="">
+                         <h3 class="Title">Ford Ranger</h3>
+                    </a>
+               </div>
+          <div class="Car-member">
+               <a href="">
+                    <img src="./assets/css/slider/car1.jpg" alt="">
+                    <h3 class="Title">Ford Ranger</h3>
+               </a>
+          </div>
+          <div class="Car-member">
+               <a href="">
+                    <img src="./assets/css/slider/car1.jpg" alt="">
+                    <h3 class="Title">Ford Ranger</h3>
+               </a>
+          </div>
+          <div class="Car-member">
+               <a href="">
+                    <img src="./assets/css/slider/car1.jpg" alt="">
+                    <h3 class="Title">Ford Ranger</h3>
+               </a>
+          </div>
+     </div>
+        </div>
+     <div class="Comment">
+          <p class="Ban3">ĐÁNH GIÁ XE</p>
+          <div class="Comment-list">
+               <div class="Comment-member">
+                    <a href="">
+                         <p class="Text">Đánh giá xe Peugeot 5008 2021 sắp bán ở Việt Nam :Đẹp hơn để là khó CR-V,CX-5</p>
+                    <img src="./assets/css/slider/comment1.jpg" alt="">
+                    </a>     
+               </div>
+          <div class="Comment-member">
+               <a href="">
+                    <p class="Text">Đánh giá xe Suzuki Swift 2021: Nâng cấp nhẹ mong thoát "ế" khi về Việt Nam</p>
+               <img src="./assets/css/slider/comment2.jpg" alt="">
+    
+                    
+          </a>     
+          </div>
+          </div>
+     </div>   
+     <div class="Share">
+          <p class="Ban3">TRẢI NGHIỆM CÙNG XẾ CƯNG</p>
+          <div class="Share-list">
+               <div class="Share-member1">
+               <a href="">
+                    <img src="./assets/css/slider/share2.jpg" alt="">
+                    <p class="Text">Xe vinfast thế hệ mới thay thế mọi thương hiệu</p>
+               </a>
+               </div>
+               <div class="Share-member2">
+               <div class="Share-member">
+                    <div class="img">
+                    <a href="">
+                         <img src="./assets/css/slider/share3.jpg" alt="">
+                    </a>
+                    </div> 
+                    <div class="caption">
+                         <p class="text"> Xe vinfast thế hệ mới thay thế mọi thương hiệu</p>
+                         <p class="time">23/04/2021</p>
+               </div>
+               </div>
+               <div class="Share-member">
+                    <div class="img">
+                    <a href="">
+                         <img src="./assets/css/slider/share4.jpg" alt="">
+                    </a>
+                    </div> 
+                    <div class="caption">
+                         <p class="text"> Chạy Mazda CX-30, đây là điểm mà CX-5 chưa bằng | Xế Cưng Review</p>
+                         <p class="time">23/04/2021</p>
+               </div>
+               </div>
+               <div class="Share-member">
+                    <div class="img">
+                    <a href="">
+                         <img src="./assets/css/slider/share5.jpg" alt="">
+                    </a>
+                    </div> 
+                    <div class="caption">
+                         <p class="text"> Mazda CX-30 đắt? Đây là Mazda CX-3 giá từ 629 triệu - lại một video "lướt gió" gửi anh em</p>
+                         <p class="time">23/04/2021</p>
+               </div>
+               </div>
+          </div>
+          </div>
+          </div>
+     <div class="Salon">
+          <p class="Ban3">SALON Ô TÔ</p>
+          <div class="Salon-list">
+
+               <div class="Salon-member">
+                    <div class="Salon-img">
+                         <a href="">
+                    <img src="./assets/css/slider/Salon1.jpeg" alt="">
+                         </a>
+               </div>
+               <div class="Salon-caption">
+                    <a href="" class="Name">Western Ford An Giang</a> 
+                    <p class="text">
+                         <i class="ti-music"></i>
+                         26/2A Trần Hưng Đạo, P. Mỹ Thới, Thành phố Long Xuyên, An Giang</p> 
+                    <p class="text">
+                         <i class="ti-mobile"></i>
+                         0783858050
+                    </p>     
+               </div>
+               </div>
+               <div class="Salon-member">
+                    <div class="Salon-img">
+                         <a href="">
+                    <img src="./assets/css/slider/Salon2.jpg" alt="">
+                         </a>
+               </div>
+               <div class="Salon-caption">
+                    <a href="" class="Name">Toyota Giải Phóng - CN Nam Định</a> 
+                    <p class="text">
+                         <i class="ti-music"></i>Đường Nam Định - Phủ Lý - TP Nam Định</p> 
+                    <p class="text">
+                         <i class="ti-mobile"></i>
+                         0967575885 - 0967575885
+                    </p>     
+               </div>
+               </div>
+               <div class="Salon-member">
+                    <div class="Salon-img">
+                         <a href="">
+                    <img src="./assets/css/slider/Salon3.jpg" alt="">
+                         </a>
+               </div>
+               <div class="Salon-caption">
+                    <a href="" class="Name">Ford Thanh Xuân</a> 
+                    <p class="text">
+                         <i class="ti-music"></i>88 Đường Nguyễn Xiển, Hạ Đình, Thanh Xuân, Hà Nội</p> 
+                    <p class="text">
+                         <i class="ti-mobile"></i>
+                         0945630279
+                    </p>     
+               </div>
+               </div>
+               <div class="Salon-member">
+                    <div class="Salon-img">
+                         <a href="">
+                    <img src="./assets/css/slider/Salon4.jpg" alt="">
+                         </a>
+                    </div>
+               <div class="Salon-caption">
+                    <a href="" class="Name">Honda ÔTô Tây Hồ</a> 
+                    <p class="text">
+                         <i class="ti-music"></i>197a Nghi Tàm Yên Phụ Tây Hồ Hà Nội</p> 
+                    <p class="text">
+                         <i class="ti-mobile"></i>
+                         0904622245 - 0904622245
+                    </p>     
+               </div>
+               </div>
+          </div>
+     </div>   
+     <div class="STT">
+          <p class="Ban3">TIN NỔI BẬT</p>
+          <div class="STT-list">
+               <div class="STT-member1">
+               <a href="">
+                    <a href="" >
+                        <i class="STT-text">Kia Seltos tại Mỹ bị triệu hồi vì lỗi chảy dầu khoang động cơ, xe bán tại Việt Nam có liên đới?</i>
+                        <br>
+                       <p class="STT-time">Sự kiện| 24/04/2021</p>
+                    </p>
+                    </a>
+                    <img src="./assets/css/slider/TT1.jpg" alt="">
+               </a>
+               </div>
+               <div class="STT-member2">
+               <div class="STT-member">
+                    <a href="">
+                         <a href="">
+                              <i class="STT-text">Tin ô tô nổi bật nhất tuần từ ngày 19/4 đến 24/4/2021</i>
+                              <i class="STT-time">Thị trường ô tô | 24/04/2021</i>
+                         </a>
+                         <img src="./assets/css/slider/STT2.jpg" alt="">
+                    </a>
+               </div>
+               <div class="STT-member">
+                    <a href="">
+                         <a href="">
+                              <i class="STT-text">Toyota gia tăng chuỗi giá trị hỗ trợ khách hàng mua xe Vios 2021</i>
+                              <i class="STT-time">Khuyến mại| 24/04/2021</i>
+                         </a>
+                         <img src="./assets/css/slider/STT3.jpg" alt="">
+                    </a>
+                    
+               </div>
+          </div>
+          </div>
+          </div> 
+     <div class="Coming">
+          <p class="Ban3">XE SẮP RA MẮT TẠI VIỆT NAM</p>
+          <div class="Coming-list">
+               <div class="Coming-member">
+                    <a href="">
+                         <img src="./assets/css/slider/coming1.jpg" alt="">
+                         <p class="Coming-text">Kia Sonet</p>
+                    </a>
+                    <p>400 triệu</p>
+               </div>
+               <div class="Coming-member">
+                    <a href="">
+                         <img src="./assets/css/slider/coming2.jpg" alt="">
+                         <p class="Coming-text">Nissan Navara</p>
+                    </a>
+                    <p>630 triệu</p>
+               </div>
+               <div class="Coming-member">
+                    <a href="">
+                         <img src="./assets/css/slider/coming3.jpg" alt="">
+                         <p class="Coming-text">Volkswageb T-Cross</p>
+                    </a>
+                    <p>630 triệu</p>
+               </div>
+               <div class="Coming-member">
+                    <a href="">
+                         <img src="./assets/css/slider/coming2.jpg" alt="">
+                         <p class="Coming-text">Volkswageb Teramont</p>
+                    </a>
+                    <p>630 triệu</p>
+               </div>
+               <div class="Coming-member">
+                    <a href="">
+                         <img src="./assets/css/slider/coming5.jpg" alt="">
+                         <p class="Coming-text">Suzuki Swift</p>
+                    </a>
+                    <p>520 triệu</p>
+               </div>
+               <!-- <div class="Coming-member">
+                    <a href="">
+                         <img src="./assets/css/slider/coming6.jpg" alt="">
+                         <p class="Coming-text">Toyota Yaris Cross</p>
+                    </a>
+                    <p>630 triệu</p>
+               </div> -->
+          </div>
+     </div> 
+     <div class="Newspaper">
+          <p class="Ban3">BÁO CHÍ NÓI GÌ VỀ CHÚNG TÔI</p>
+          <div class="Newspaper-list">
+               <div class="Newspaper-member">
+                    <a href="">
+                         <img src="./assets/css/slider/newspaper1.png" alt="" class="img">
+                    </a>
+               </div>
+               <div class="Newspaper-member">
+                    <a href="">
+                         <img src="./assets/css/slider/newspaper2.png" alt="" class="img">
+                    </a>
+               </div>
+               <div class="Newspaper-member">
+                    <a href="">
+                         <img src="./assets/css/slider/newspaper3.png" alt="" class="img">
+                    </a>
+               </div>
+               <div class="Newspaper-member">
+                    <a href="">
+                         <img src="./assets/css/slider/newspaper4.png" alt="" class="img">
+                    </a>
+               </div>
+          </div>
+     </div>
+     <div class="Oto">
+          <div class="Oto-list">
+               <ul>
+                    <li><a href="" class="Oto-member"> 
+                         <p class="Oto-Title">Giá xe Ford</p> 
+                         <ul class="Subnav">
+                              <li><a href="">Ford Ranger</a></li>
+                              <li><a href="">Ford Ecosport</a></li>
+                              <li><a href="">Ford Everest</a></li>
+                              <li><a href="">Ford Transit</a></li>
+                         </ul>
+
+                    </a></li>
+                    <li>
+                         <a href=""  class="Oto-member">
+                              <p class="Oto-Title">Giá xe Toyota</p> 
+                              <ul class="Subnav">
+                                   <li><a href="">Totota Camry</a></li>
+                                   <li><a href="">Toyota Avanza</a></li>
+                                   <li><a href="">Toyota Fortuner</a></li>
+                                   <li><a href="">Toyota Hulux</a></li>
+                              </ul>    
+                         </a>
+                    </li>
+                    <li>
+                         <a href="" class="Oto-member">
+                                   <p class="Oto-Title">Giá xe Kia</p> 
+                                   <ul class="Subnav">
+                                        <li><a href="">Kia Morning</a></li>
+                                        <li><a href="">Kia Soluto</a></li>
+                                        <li><a href="">Kia Optima</a></li>
+                                        <li><a href="">Kia Sorento</a></li>
+                                   </ul> 
+                         </a>
+                    </li>
+                    <li>
+                         <a href="" class="Oto-member">
+                                   <p class="Oto-Title">Giá xe Huyndai</p> 
+                                   <ul class="Subnav">
+                                        <li><a href="">Huyndai Santafe</a></li>
+                                        <li><a href="">Huyndai Elantra</a></li>
+                                        <li><a href="">Huyndai Kona</a></li>
+                                        <li><a href="">Huyndai Accent</a></li>
+                                   </ul> 
+                         </a>
+                    </li>
+                    <li>
+                         <a href="" class="Oto-member">
+                              <p class="Oto-Title">Giá xe Mercedes</p> 
+                              <ul class="Subnav">
+                                   <li><a href="">Mercedes E200</a></li>
+                                   <li><a href="">Mercedes C200</a></li>
+                                   <li><a href="">Mercedes S450 L</a></li>
+                                   <li><a href="">Mercedes S400</a></li>
+                              </ul> 
+                         </a>
+                    </li>
+                    <li>
+                         <a href="" class="Oto-member">
+                              <p class="Oto-Title">Giá xe BMW</p> 
+                              <ul class="Subnav">
+                                   <li><a href="">BMW 320i</a></li>
+                                   <li><a href="">BMW X3</a></li>
+                                   <li><a href="">BMW X1</a></li>
+                                   <li><a href="">BMW I8</a></li>
+                              </ul>
+                         </a>
+                    </li>
+                    <li>
+                         <a href="" class="Oto-member">
+                              <p class="Oto-Title">Giá xe VinFast</p> 
+                              <ul class="Subnav">
+                                   <li><a href="">VinFast Fadil</a></li>
+                                   <li><a href="">VinFast Lux A2.0</a></li>
+                                   <li><a href="">VinFast SA2.0</a></li>
+                              </ul>
+                         </a>
+                    </li>
+                    <li>
+                         <a href="" class="Oto-member">
+                              <p class="Oto-Title">Giá xe Mazda</p> 
+                              <ul class="Subnav">
+                                   <li><a href="">Mazda 3</a></li>
+                                   <li><a href="">Mazda CX 5</a></li>
+                                   <li><a href="">Mazda CX-8</a></li>
+                                   <li><a href="">Mazda 2</a></li>
+                              </ul>
+                    </a>
+                    </li>
+                    <li>
+                         <a href="" class="Oto-member">
+                              <p class="Oto-Title">Giá xe Honda</p> 
+                              <ul class="Subnav">
+                                   <li><a href="">Honda City</a></li>
+                                   <li><a href="">Honda Civic</a></li>
+                                   <li><a href="">Honda CRV</a></li>
+                                   <li><a href="">Honda Jazz</a></li>
+                              </ul>
+                    </a>
+                    </li>
+                    <li>
+                         <a href="" class="Oto-member">
+                              <p class="Oto-Title">Giá xe Mitsubishi</p> 
+                              <ul class="Subnav">
+                                   <li><a href="">Mitsubishi Attrage</a></li>
+                                   <li><a href="">Mitsubishi Xpander</a></li>
+                                   <li><a href="">Mitsubishi Mirage</a></li>
+                                   <li><a href="">Mitsubishi Outlander</a></li>
+                              </ul>
+                    </a>
+                    </li>
+                    <li>
+                         <a href="" class="Oto-member">
+                              <p class="Oto-Title">Giá xe Nissan</p> 
+                              <ul class="Subnav">
+                                   <li><a href="">Nissan X trail</a></li>
+                                   <li><a href="">Nissan Navara</a></li>
+                                   <li><a href="">Nissan Sunny</a></li>
+                                   <li><a href="">Nissan Terra</a></li>
+                              </ul>
+                    </a>
+                    </li>
+                    <li>
+                         <a href="" class="Oto-member">
+                              <p class="Oto-Title">Giá xe Suzuki</p> 
+                              <ul class="Subnav">
+                                   <li><a href="">Suzuki Swift</a></li>
+                                   <li><a href="">Suzuki Vitara</a></li>
+                                   <li><a href="">Suzuki Ertiga</a></li>
+                                   <li><a href="">Suzuki Ciaz</a></li>
+                              </ul>
+                    </a>
+                    </li>
+                    <li>
+                         <a href="" class="Oto-member">
+                              <p class="Oto-Title">Giá xe Audi</p> 
+                              <ul class="Subnav">
+                                   <li><a href="">Audi A4</a></li>
+                                   <li><a href="">Audi A8</a></li>
+                                   <li><a href="">Audi Q3</a></li>
+                                   <li><a href="">Audi Q5</a></li>
+                              </ul>
+                    </a>
+                    </li>
+                    <li>
+                         <a href="" class="Oto-member">
+                              <p class="Oto-Title">Giá xe Peugeot</p> 
+                              <ul class="Subnav">
+                                   <li><a href="">Peugeot 5008</a></li>
+                                   <li><a href="">Peugeot 3008</a></li>
+                                   <li><a href="">Peugeot 408</a></li>
+                                   <li><a href="">Peugeot 508</a></li>
+                    </a>
+                    </li>
+               </ul>
+          </div>
+     </div>
+     <div class="End">
+          <div class="End-list">
+               <ul>
+                    <li>
+                         <a href="" class="End-member">
+                              <p class="End-text">Hỗ trợ khách hàng</p> 
+                              <ul class="Subnav">     
+                                   <li><a href="">Quy định,chinh sách</a></li>
+                                   <li><a href="">Điều khoản hoạt động salon</a></li>
+                                   <li><a href="">Câu hỏi thường gặp</a></li>
+                                   <li><a href="">Liên hệ</a></li>
+                                 </ul>
+                              </a>
+               </li>
+               <li>
+                              <a href="" class="End-member">
+                                   <p class="End-text">Về chúng tôi</p>
+                                   <ul class="Subnav">
+                                   <li><a href="">Giới thiệu</a></li>
+                                   <li><a href="">Quy chế hoạt động</a></li>
+                                   <li><a href="">Tuyển dụng</a></li>
+                                   <li><a href="">Sitemap</a></li>
+                                 </ul>
+                              </a>
+               </li>
+               <li>
+                              <a href="" class="End-member">
+                                   <p class="End-text">Tin tức bán xe hơi</p>
+                                   <ul class="Subnav">
+                                   <li><a href="">Báo giá dịch vụ</a></li>
+                                   <li><a href="">Khuyến mại từ các hãng</a></li>
+                                   <li><a href="">Cải tiến & tính năng mới</a></li>
+                                 </ul>
+                              </a>
+                    </li>
+                    <li>
+                         <a href=""class="End-member">
+                              <ul class="Subnav">
+                              <li>
+                              <a href="" class="ti-facebook">
+                              <p class="Text">Facebook</p>     
+                              </a></li>
+                              <li><a href=""class="ti-youtube">
+                                   <p class="Text">Youtube</p>
+                         </a></li>
+                              <li><a href=""class="ti-apple">
+                                <p class="Text">Apple</p> 
+                              </a></li>
+                              </ul>
+                         </a>
+                    </li>
+                    <!-- <li>
+                         <a href=""class="End-member">
+                              <ul class="Subnav">
+                              <li>
+                              <a href="" class="ti-mobile">
+                              <p class="Text">Giao diện mobile</p> 
+                              <p>m.oto.com.vn</p>     
+                              </a></li>
+                              <li><a href=""class="ti-apple">
+                                   <p class="Text">Tải về trên</p>
+                                   <p>App store</p>
+                         </a></li>
+                              <li><a href=""class="ti-dashboard">
+                                <p class="Text">Tải về trên</p> 
+                                <p>Google Play</p>
+                              </a></li>
+                              </ul>
+                         </a>
+                    </li> -->
+               <br><br><br><br><br><br>
+                    < class="End-tt">
+                         <ul>
+                              <p class="Name-cty">CÔNG TY CỔ PHẦN NEXTGEN VIỆT NAM</p><br>
+                         <li>
+                              <ul>
+                                   <li><p>Copyright © 2015 - 2021 Oto.com.vn - Nextgenvietnam.com</p></li>
+                                   <li><p>Chịu trách nhiệm nội dung: Bà Bùi Thị Hải Yến</p></li>
+                              </ul>
+                                   <br>
+                             <ul>
+                                  <li><p class="ti-mobile">0904.573.739</p></li>
+                                  <li><p class="ti-email">hotro@oto.com.vn</p></li>
+                                  <li><a href="" class="ti-skype">Skype</a></li>
+                                  <li><p class="pd1">Toàn bộ quy chế, quy định giao dịch chung được đăng tải trên website áp dụng từ ngày 11/5/2015</p></li>
+                              </ul><br>
+                              <ul><li><p>Thời gian làm việc: 8:30 - 17:15 (thứ 2 - thứ 6)</p></li>
+                              <li><p class="pd">Oto.com.vn không bán xe trực tiếp, quý khách mua xe xin vui lòng liên hệ trực tiếp người đăng tin.</p></li>
+                         </ul><br>
+                         </li>
+                         <ul>
+                              <li><a href="" class="End-logo">
+                                   <img src="./assets/css/slider/End2.png" alt="">
+                                   Giấy phép ICP số 978/GP-TTĐT
+                              </a></li>
+                              <li><a href="" class="End-logo">Vận hành bởi Daivietgroup.com<img src="./assets/css/slider/end3.svg" alt=""></a></li>
+                         </ul>
+                         <br><br>
+                         </ul>   
+                         <p class="Name-cty">Địa chỉ trụ sở chính</p>  <br>
+                         <p class="text">Tầng 29 Tòa Keangnam Landmark, KĐT mới Cầu Giấy, Phường Mễ Trì, Quận Nam Từ Liêm, TP. Hà Nội.</p> <br>
+                         <p class="text" class="ti-mobile">024.3212.3830 | 0904.573.739 | 0778.448.886</p> <br>
+                         <p class="Name-cty">Văn phòng TP. Hồ Chí Minh</p><br>
+                         <p class="text">Tầng 14, Toà nhà Vietcombank, số 5 Công Trường Mê Linh, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh.</p><br>
+                         <p class="text" class="ti-mobile">024.3212.3830 | 0904.573.739 | 0778.448.886</p>
+               </ul>
+               </div>
+          </div>
+     </div>
+</body>
+</html>
